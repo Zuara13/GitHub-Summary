@@ -2,8 +2,8 @@
 
 								
 								
-									#INFORMACIÓN GIBHUB
-										##Resumen
+						#INFORMACIÓN GIBHUB
+						     ##Resumen
 										
 										
 										
